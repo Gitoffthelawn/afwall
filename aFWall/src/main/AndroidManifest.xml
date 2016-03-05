@@ -83,6 +83,17 @@
         android:theme="@style/MyActionBarTheme"
         android:launchMode="singleTask"
         android:name="dev.ukanth.ufirewall.util.G" >
+
+        <meta-data
+            android:name="xposedmodule"
+            android:value="true" />
+        <meta-data
+            android:name="xposeddescription"
+            android:value="Xposed Module for AFWall+" />
+        <meta-data
+            android:name="xposedminversion"
+            android:value="54" />
+
         <activity
             android:name="dev.ukanth.ufirewall.MainActivity"
             android:excludeFromRecents="true"
