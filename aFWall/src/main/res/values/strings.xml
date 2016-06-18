@@ -158,7 +158,7 @@
     <string name="LogPackBlock">Total Packets Blocked</string>
      <string name="blocked">AFWall+ Blocked :</string>
     <string name="refresh">Refresh</string>
-
+m
     <!-- Multi-User-Interface (MUI) -->
     <string name="mp_prefs_title">Profiles</string>
     <string name="custom_title1">Custom name for Default Profile</string>
@@ -394,6 +394,7 @@
     <string name="select_dir">Select directory</string>
     <string name="select">Select action for</string>
     <string name="manage_profiles">Manage Profiles</string>
+    <string name="manage_profiles_summary">Add or delete profiles</string>
     <string name="profiles">Profiles: </string>
 
     <string name="migrate_profiles">Migrate Profiles</string>
